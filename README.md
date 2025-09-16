@@ -51,8 +51,6 @@ Me gusta crear **interfaces limpias y funcionales**, integrando tecnologías com
 
 ---
 
-## 📂 Otros proyectos
-- Aquí puedes agregar proyectos futuros o enlaces a repositorios adicionales.
 
 ---
 
