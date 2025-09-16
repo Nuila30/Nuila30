@@ -44,8 +44,9 @@ Me gusta crear **interfaces limpias y funcionales**, integrando tecnologías com
   - Botón “Recoger” que elimina automáticamente el registro.
   - Pantalla duplicada para TV tipo tablero de banco.  
 - **Capturas:**
-  ![Vista del sistema QR](img/qr1.png)
-  ![Pantalla para TV](img/qr2.png)
+  ![Vista del sistema QR]<img width="1920" height="920" alt="SIS_QR" src="https://github.com/user-attachments/assets/c1da92df-8928-4bc3-99cc-0e800d83b7a4" />
+
+  ![Pantalla para TV]<img width="1920" height="960" alt="SIS_QR_2" src="https://github.com/user-attachments/assets/0111309b-febd-4835-839c-f526d6aae080" />
 
 
 ---
