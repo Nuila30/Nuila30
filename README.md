@@ -27,9 +27,12 @@ Me gusta crear **interfaces limpias y funcionales**, integrando tecnologías com
   - Reportes de libros desactivados y más prestados.
   - Interfaz amigable y responsiva.  
 - **Capturas:**
-  ![Vista del sistema](img/biblioteca1.png)
-  ![Préstamos de libros](img/biblioteca2.png)
-- **Repositorio:** [GitHub](https://github.com/tuusuario/sistema-biblioteca)
+  ![Vista del sistema]<img width="1920" height="952" alt="SIS_B" src="https://github.com/user-attachments/assets/94e2cca5-82c6-4dd1-a2d7-7fc56f052e65" />
+
+
+  ![Préstamos de libros]<img width="1920" height="920" alt="SIS_B_2" src="https://github.com/user-attachments/assets/caa2f474-de80-42d2-a498-3c8811dc9b9e" />
+
+
 
 ---
 
@@ -43,7 +46,7 @@ Me gusta crear **interfaces limpias y funcionales**, integrando tecnologías com
 - **Capturas:**
   ![Vista del sistema QR](img/qr1.png)
   ![Pantalla para TV](img/qr2.png)
-- **Repositorio:** [GitHub](https://github.com/tuusuario/sistema-qr)
+
 
 ---
 
